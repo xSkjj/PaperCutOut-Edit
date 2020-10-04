@@ -1,0 +1,122 @@
+to do
+	change carrot and potato growth stages
+	"delete" adds and fixes
+	fix horses
+	particle/soul fire flame might change to soul flame
+	change cod color from blue/green to beige or whatever the fuck
+	
+03.05.2020
+	gave chests their own particle
+	added horse armor
+	added lit redstone ore texture
+	changed redstone block texture
+	added crimson and warped nylium sides
+	fixed horse armor transparency shit
+	
+02.05.2020
+	changed torch textures
+	changed redstone lamp textures
+	changed critical hit
+	added snowy podzol and mycelium block textures
+	changed armor stuff
+	bed easter egg idk
+	
+01.05.2020
+	added netherite block texture
+	lessened amount of diamond on netherite armor
+	added diamond horse armor
+	fixed donkey texture
+	changed pack texture and description
+	
+30.04.2020
+	added jigsaw block textures
+	added netherite textures
+	added wynntils quest book
+	
+26.04.2020
+	started with wynntils textures
+	added rarity (texture round to square)
+	added map textures
+	added bars textures
+	added hotbar texture
+	added tab_overlay texture
+	converted textures to lower versions
+	fixed some bars shit
+	
+25.04.2020
+	tiny changes to font
+	redone gold color change
+	made glass even brighter
+	increased water contrast
+	rotated cake xd
+	made some black transparency shit
+	fixed netherrack
+	added crimson and warped fungi textures
+	
+23.04.20
+	separated folders
+	made changes to particles
+	made new angry particle
+	changed both jukebox_tops
+	changed enderman_eyes
+	fixed grass side
+	added less saturated green-ish layer thing to lapis
+	adjusted diamond stuff colors
+	changed bucket to hafen colors
+	
+22.04.20
+	added missing broken_elytra texture
+	edited entity/elytra
+	gold color change
+	new blaze rod and powder
+	added honey_bottle texture
+	made glass lighter again
+	edited large fern texture
+	separated some stuff block, entity, environment clear
+	retextured moon
+	added pigstep disk
+
+21.04.20
+	new effect particles
+	finished the beds
+	changed enderman texture
+	font changes
+	fixed gold and stone tools iron tip
+	minor tool texture changes
+
+20.04.20
+	diamond and gold armor retexture
+	minor diamond tools retexture
+	snowy Podzol exists... nvm...
+	added new font (basically Hafen font low res)
+	edited chest texture (you unproductive pos, do the f-ing beds)
+	darkened Iron shit again
+
+19.04.20
+	made netherite sword look better
+	darkened Iron shit
+	removed stained glass border
+	fixed transparency issue with tall_fern, tall_grass
+	retextured netherite_sword and diamond_sword
+	made glass border lighter
+	fixed stone bricks missing (name)
+	minor texture changes
+
+18.04.20
+	removed double border from glass
+	lessened the pink flowers on potatoes_stage3
+	increased border saturation on iron_ore
+	changed gold_layer_2 to look more golden
+
+17.04.20
+	changed iron textures
+		-less saturation
+		-coloring
+		-"iron retexture was a bad idea" fixed
+	fixed some transparency issues with some textures
+	added new potato growth stages
+	added changelog
+	added white spots to red_mushroom
+	removed bone_meal border
+	
+	idk probably done more
