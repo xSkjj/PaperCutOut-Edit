@@ -11,7 +11,7 @@ to do
 	added lit redstone ore texture
 	changed redstone block texture
 	added crimson and warped nylium sides
-	fixed horse armor transparency shit
+	fixed horse armor transparency
 	
 02.05.2020
 	changed torch textures
@@ -41,7 +41,7 @@ to do
 	added hotbar texture
 	added tab_overlay texture
 	converted textures to lower versions
-	fixed some bars shit
+	fixed some bars
 	
 25.04.2020
 	tiny changes to font
@@ -49,7 +49,7 @@ to do
 	made glass even brighter
 	increased water contrast
 	rotated cake xd
-	made some black transparency shit
+	made some black transparency
 	fixed netherrack
 	added crimson and warped fungi textures
 	
@@ -89,8 +89,8 @@ to do
 	minor diamond tools retexture
 	snowy Podzol exists... nvm...
 	added new font (basically Hafen font low res)
-	edited chest texture (you unproductive pos, do the f-ing beds)
-	darkened Iron shit again
+	edited chest texture
+	darkened Iron stuff again
 
 19.04.20
 	made netherite sword look better
