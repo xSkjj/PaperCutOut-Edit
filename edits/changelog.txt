@@ -3,7 +3,7 @@ to do
 	"delete" adds and fixes
 	fix horses
 	particle/soul fire flame might change to soul flame
-	change cod color from blue/green to beige or whatever the fuck
+	change cod color from blue/green to beige or whatever
 	
 03.05.2020
 	gave chests their own particle
